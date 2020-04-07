@@ -3,4 +3,5 @@
  
  Depencencies:
   PHP 5.x or 7.x with php-mysqli library
+  
   any web servers like nginx, apache and etc
